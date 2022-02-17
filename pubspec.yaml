@@ -1,7 +1,7 @@
 name: eticon_extension
-description: A new Flutter project.
-version: 0.0.3
-homepage:
+description: A simple package that extends the base classes of the Dart language and adds new classes and features
+version: 1.1.0
+homepage: https://github.com/kensamare/eticon_extension
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

@@ -1,3 +1,5 @@
-## 0.0.1
+## 1.1.0
+* Full release
 
-* TODO: Describe initial release.
+## 1.0.0
+* Beta release

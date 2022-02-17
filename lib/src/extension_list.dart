@@ -1,4 +1,6 @@
+///Extension on List?
 extension ExtensionNullList on List? {
+  ///Check List is Null or empty
   bool get isNullOrEmpty => _isNullOrEmpty();
 
   bool _isNullOrEmpty() {
