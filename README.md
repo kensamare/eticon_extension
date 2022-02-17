@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/36012868/130392291-52b82b9b-fd52-424b-ba5a-b7630e9cf343.png" data-canonical-src="https://user-images.githubusercontent. com/36012868/130392291-52b82b9b-fd52-424b-ba5a-b7630e9cf343.png" height="200" width=400/>
 
-[![English](https://img.shields.io/badge/Language-Russian-blue?style=plastic)](https://github.com/kensamare/eticon_extension/blob/master/doc/README_RU.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-blue?style=plastic)](https://github.com/kensamare/eticon_extension/blob/master/doc/README_RU.md)
 
 # ETICON EXTENSION
 
-A library that extends base classes and adds new ones.
+A package that extends base classes and adds new ones.
 
 ## String
 
@@ -25,7 +25,7 @@ Extends the base class with the following methods:
 - isNullValue - Will return true if the object is null
 - isNotNull - Will return true if the object is not null
 
-## datetime
+## DateTime
 
 Comparison operators added:
 ```bash
